@@ -1,0 +1,18 @@
+{
+   "owners": [
+      "709534713500401685"
+   ],
+   "shards": "auto",
+   "database": {
+      "db": "feedback",
+      "pass": "",
+      "host": "localhost",
+      "user": "root"
+   },
+   "prefix": "f!",
+   "token": "NzczMzA4NTg0NDU2MjI0ODA5.X6HVvQ.U3d-o7slzorevo2EGGb0CYqfu2g",
+   "support": {
+      "id": "737872508321267753",
+      "invitation": "https://discord.gg/qRRKcHr"
+   }
+}
